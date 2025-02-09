@@ -15,10 +15,10 @@ Este projeto faz parte da disciplina de Projeto de Algoritmos, ministrada pelo P
 
 ## Screenshots
 <center><img src="https://github.com/projeto-de-algoritmos-2024/PD_ProblemasJuizOnline/blob/master/distinctSub/ACdist.png?raw=true" alt="submissao_distincSubseq" width="800"/></center>
-<center><i><b>Imagem 1:</b> Submissão da questão 115(LeetCode)</i></center>
+<center><i><b>Imagem 1:</b> Submissão da questão 115 (LeetCode)</i></center>
 <br></br>
-<center><img src="X?raw=true" alt="submissao_CountSubarrays" width="800"/></center>
-<center><i><b>Imagem 2:</b> Submissão da questão X (LeetCode)</i></center>
+<center><img src="https://github.com/projeto-de-algoritmos-2024/PD_ProblemasJuizOnline/blob/master/bestTimeToBuySellStock/123submissao.png?raw=true" alt="submissao_bestTimeToBuyAndSellStock" width="800"/></center>
+<center><i><b>Imagem 2:</b> Submissão da questão 123 (LeetCode)</i></center>
 <br></br>
 <center><img src="X?raw=true" alt="submissao_kPontosMaisProximos" width="800"/></center>
 <center><i><b>Imagem 3:</b> Submissão da questão X (LeetCode)</i></center>
@@ -31,7 +31,7 @@ Todos os códigos podem ser rodados com o compilador padrão de C++ dentro do te
 ## Uso 
 Ao executar os códigos disponíveis, é possível checar seu funcionamento por meio dos casos de teste disponíveis nos prints de cada questão resolvida. Também é possível testar o código no próprio site do juiz online e ver se é aceito.<br>Links:
 * [Problema 115 - Difícil](https://leetcode.com/problems/distinct-subsequences/description/)
-* [Problema X - Difícil]()
+* [Problema 123 - Difícil](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
 * [Problema X - Média]()
 
 ## Vídeo da apresentação
