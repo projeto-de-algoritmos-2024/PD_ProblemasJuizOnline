@@ -35,7 +35,7 @@ Ao executar os códigos disponíveis, é possível checar seu funcionamento por 
 * [Problema 32 - Difícil](https://leetcode.com/problems/longest-valid-parentheses/description/)
 
 ## Vídeo da apresentação
-[![ProgramacaoDinamica](https://img.youtube.com/vi/X/0.jpg)](https://www.youtube.com/watch?v=X)
+[![ProgramacaoDinamica](https://img.youtube.com/vi/-PL1FTX9CkU/0.jpg)](https://www.youtube.com/watch?v=-PL1FTX9CkU)
 
 
 
